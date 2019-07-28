@@ -10,3 +10,6 @@ My IntelImageNet on the test set classified the labels as follows:
   * sea - 85% accuracy
   * street - 84% accuracy
 
+My results on the unlabeled data set:
+
+![picture alt](https://github.com/lin-justin/InteLImageNet/blob/master/prediction_results.png)
