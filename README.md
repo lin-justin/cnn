@@ -10,6 +10,6 @@ My InteImageNet accuracy on a third of the test set:
   * sea - 85% accuracy
   * street - 84% accuracy
 
-My InteLImageNet results on the unlabeled data set:
+My InteImageNet results on the unlabeled data set:
 
 ![picture alt](https://github.com/lin-justin/InteLImageNet/blob/master/prediction_results.png)
