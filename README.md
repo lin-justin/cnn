@@ -1,6 +1,6 @@
 # Natural Scene Image Classification
 
-The purpose of this project was to understand how Convolutional Neural Networks work, get familiar with PyTorch, and collecting and processing images.
+The purpose of this project was to understand how Convolutional Neural Networks work, get familiar with PyTorch, and collect and process images.
 
 The data set can be found [here](https://www.kaggle.com/puneet6060/intel-image-classification).
 
